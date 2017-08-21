@@ -1,0 +1,16 @@
+body {
+  padding: 15px 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#map {
+  display: block;
+  overflow: hidden;
+  width: 100%;
+  height: 400px;
+  background: #eee;
+}
